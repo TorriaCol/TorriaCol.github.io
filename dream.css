@@ -1,15 +1,17 @@
+#background {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
 body {
-    /*font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif;
     //display: flex;
     //flex-direction: column;
     align-items: center;
-    justify-content: center;*/
-    background-image: url('DreamTrackerHomePage.gif') no-repeat center center fixed;
-    background-size: cover;
-    
-    height: 100vh;
-    padding:0;
-    margin:0;
+    justify-content: center;
 }
 
 h1 {
